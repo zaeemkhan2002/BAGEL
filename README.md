@@ -63,5 +63,4 @@ across dataset boundaries.
   shared/global "ideal" threshold (fit once across the whole calibration set) and per-model
   calibrated thresholds (fit independently per promptcop, §3.5). The shared-threshold results
   were an earlier approach that was ultimately **abandoned**; per-model calibration is what the
-  paper reports throughout. Both are left in the notebook for transparency on how that design
-  choice was reached.
+  paper reports throughout.
